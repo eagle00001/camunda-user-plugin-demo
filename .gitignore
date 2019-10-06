@@ -1,0 +1,13 @@
+/.gradle/*
+.classpath
+.project
+.settings
+/.idea/*
+/build/*
+/target/*
+/bin/*
+/*/target/*
+/*/bin/*
+/.sonar/*
+
+/bin/
